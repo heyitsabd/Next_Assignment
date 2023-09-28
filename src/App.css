@@ -2,20 +2,6 @@
   text-align: center;
 }
 
-.button_hover{
-  background-color: white;
-  border-color: #007bff; 
-  color: #0D6EFD;
-  border: '0.5px solid #0D6EFD';
-  
-}
-
-.button_hover:hover {
-  background-color: #0D6EFD;
-  border-color: #007bff; 
-  color: #fff; 
-}
-
 .popup{
   position:fixed;
   top: 0;
